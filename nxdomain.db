@@ -1,0 +1,4 @@
+$ORIGIN .
+@ 86400 SOA nxdomain. ( nxdomain 0 86400 600 604800 86400 )
+@ NS nxdomain.
+nxdomain IN A 127.0.0.1
